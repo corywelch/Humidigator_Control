@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Humidigator Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="power_control">Power</string>
+    <string name="humidity">Set Humidity: </string>
+    <string name="ventilation">Ventilation: </string>
+    <string name="humidity_up">+</string>
+    <string name="humidity_down">-</string>
+    <string name="ventilation_on">ON</string>
+    <string name="ventilation_off">OFF</string>
+    <string name="team_name">The Green SYDE of Life</string>
+
+</resources>
